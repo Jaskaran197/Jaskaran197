@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any projects involving these
 - 📫 Reach me @ jaskaran197@gmail.com
 
-[![Jaskaran's github stats](https://github-readme-stats.vercel.app/api?username=Jaskaran197)](https://github.com/Jaskaran197/github-readme-stats)
+![Jaskaran's github stats](https://github-readme-stats.vercel.app/api?username=Jaskaran197&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran197&theme=prussian&layout=compact)
 
 <!---
 Jaskaran197/Jaskaran197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
