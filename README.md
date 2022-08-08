@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning MicroAI and deployment of AI models on resource constrained devices like microcontrollers and SBCs.
 - 💞️ I’m looking to collaborate on any projects involving these
 - 📫 Reach me @ jaskaran197@gmail.com
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jaskaran197/count.svg" />
-</p>
+
 
 
 ![Jaskaran's github stats](https://github-readme-stats.vercel.app/api?username=Jaskaran197&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
