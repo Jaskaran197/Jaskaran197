@@ -6,8 +6,8 @@
 
 
 
-![Jaskaran's github stats](https://github-readme-stats.vercel.app/api?username=Jaskaran197&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaskaran197&theme=prussian&layout=compact)
+![Jaskaran's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jaskaran197&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jaskaran197&theme=prussian&layout=compact)
 
 <p align="center">
   <a href="mailto:jaskaran197@gmail.com">
